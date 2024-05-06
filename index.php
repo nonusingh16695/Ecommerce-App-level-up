@@ -27,7 +27,7 @@
         <nav class="navbar">
 
             <div class="logo">
-                <a href="http://localhost/php/levelup/index.php"><img src="images/level-up.jpg" alt=""></a>
+                <a href="http://localhost/php/levelup/index.php"><img src="images/level-up.WEBP" alt=""></a>
             </div>
 
             <ul class="menus">
@@ -65,7 +65,7 @@
 
             <div class="inner-right-image" data-aos="slide-left" data-aos-duration="1000">
 
-                <img src="images/main.png" alt="">
+                <img src="images/main.WEBP" alt="">
 
             </div>
 
@@ -315,7 +315,7 @@
 
                     <div class="level-logo space">
 
-                        <img src="images/level-up.jpg" width="100px" alt="">
+                        <img src="images/level-up.WEBP" width="100px" alt="">
 
                     </div>
 
@@ -382,8 +382,8 @@
 
                     <div class="googleappstore space">
 
-                        <img src="images/appstore.png" class="appstore" width="200px" alt="">
-                        <img src="images/googeplay.png" class="playstore" width="200px" alt="">
+                        <img src="images/appstore.WEBP" class="appstore" width="200px" alt="">
+                        <img src="images/googeplay.WEBP" class="playstore" width="200px" alt="">
 
                     </div>
 
@@ -393,19 +393,19 @@
 
                         <div class="visa">
 
-                            <img src="images/visa.jpg" width="100px" alt="">
+                            <img src="images/visa.WEBP" width="100px" alt="">
 
                         </div>
 
                         <div class="master-card">
 
-                            <img src="images/mastercard.jpg" width="100px" alt="">
+                            <img src="images/mastercard.WEBP" width="100px" alt="">
 
                         </div>
 
                         <div class="mastero">
 
-                            <img src="images/Maestro.jpg" width="100px" alt="">
+                            <img src="images/Maestro.WEBP" width="100px" alt="">
 
                         </div>
 

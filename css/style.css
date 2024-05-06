@@ -7,22 +7,22 @@
 
 @font-face {
     font-family: heading;
-    src: url(../hpfont/Poppins-Medium.ttf);
+    src: url(../hpfont/Poppins-MediumItalic.woff2);
 }
 
 @font-face {
     font-family: paragraph;
-    src: url(../hpfont/Poppins-Regular.ttf);
+    src: url(../hpfont/Poppins-Regular.woff2);
 }
 
 @font-face {
     font-family: button;
-    src: url(../hpfont/Poppins-Regular.ttf);
+    src: url(../hpfont/Poppins-Regular.woff2);
 }
 
 @font-face {
     font-family: light;
-    src: url(../hpfont/Poppins-Light.ttf);
+    src: url(../hpfont/Poppins-Light.woff2);
 }
 
 :root {

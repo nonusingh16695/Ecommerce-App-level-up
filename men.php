@@ -44,7 +44,7 @@ $result = mysqli_query($conn , $selectquery);
         <nav class="navbar">
 
             <div class="logo">
-                <a href="http://localhost/php/levelup/index.php"><img src="images/level-up.jpg" alt=""></a>
+                <a href="http://localhost/php/levelup/index.php"><img src="images/level-up.WEBP" alt=""></a>
             </div>
 
             <ul class="menus">
@@ -189,7 +189,7 @@ $result = mysqli_query($conn , $selectquery);
 
             <div class="level-logo space">
 
-                <img src="images/level-up.jpg" width="100px" alt="">
+                <img src="images/level-up.WEBP" width="100px" alt="">
 
             </div>
 
@@ -256,8 +256,8 @@ $result = mysqli_query($conn , $selectquery);
 
             <div class="googleappstore space">
 
-                <img src="images/appstore.png" class="appstore" width="200px" alt="">
-                <img src="images/googeplay.png" class="playstore" width="200px" alt="">
+                <img src="images/appstore.WEBP" class="appstore" width="200px" alt="">
+                <img src="images/googeplay.WEBP" class="playstore" width="200px" alt="">
 
             </div>
 
@@ -267,19 +267,19 @@ $result = mysqli_query($conn , $selectquery);
 
                 <div class="visa">
 
-                    <img src="images/visa.jpg" width="100px" alt="">
+                    <img src="images/visa.WEBP" width="100px" alt="">
 
                 </div>
 
                 <div class="master-card">
 
-                    <img src="images/mastercard.jpg" width="100px" alt="">
+                    <img src="images/mastercard.WEBP" width="100px" alt="">
 
                 </div>
 
                 <div class="mastero">
 
-                    <img src="images/Maestro.jpg" width="100px" alt="">
+                    <img src="images/Maestro.WEBP" width="100px" alt="">
 
                 </div>
 
